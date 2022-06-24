@@ -4,6 +4,10 @@
   <img src="imgs/fig.png" alt="demo">
 </p>
 
+<p align="center">
+  <img src="imgs/fig2.png" alt="demo">
+</p>
+
 **Improved surface reconstruction using high-frequency details** 
 
 *Yiqun Wang, Ivan Skorokhodov, Peter Wonka*
