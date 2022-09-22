@@ -1,4 +1,4 @@
-# Improved surface reconstruction using high-frequency details 
+# HF-NeuS: Improved Surface Reconstruction Using High-Frequency Details
 
 <p align="center">
   <img src="imgs/fig.png" alt="demo">
