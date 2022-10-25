@@ -32,6 +32,10 @@ pip install - r requirements.txt
 bash run.sh
 ```
 
+**Pretrained Models**
+
+We provide the pre-trained models for DTU datasets on [Google Drive](https://drive.google.com/drive/folders/1cQJsyCyotytPt1hYNNHKyB1kYgCI3u9I?usp=sharing).
+
 ## Citation
 
 Consider Citing the following paper if this program benefits your project
